@@ -22,7 +22,7 @@ Built a real-time system that detects, tracks and reads Israeli license plates f
 
 **Python · PyTorch · Keras · YOLO · OpenCV · PySide6 · Computer Vision**
 
-<a href="https://github.com/Jonathan-Balulu-Christiansen/LicensePlateRecognition"><img src="assets/license-plate-recognition-demo.png" alt="The license plate recognition app reading four plates at once in real time on a synthetic street scene" width="100%"></a>
+<a href="https://github.com/Jonathan-Balulu-Christiansen/LicensePlateRecognition"><img src="assets/license-plate-recognition-live.png" alt="The license plate recognition app reading four plates at once in real time on a synthetic street scene" width="100%"></a>
 
 <sub>The app running in real time on a synthetic scene. All plate numbers shown are fictional.</sub>
 
