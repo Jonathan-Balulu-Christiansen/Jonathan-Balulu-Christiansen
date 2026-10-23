@@ -8,8 +8,6 @@ I work primarily in Python on signal processing, estimation, deep learning and c
 
 ### [Radar Target Tracking with an Extended Kalman Filter](https://github.com/Jonathan-Balulu-Christiansen/EKF_Simulation)
 
-_Personal project_
-
 Built a radar tracking simulator from the physics up: a 3-DOF model flies a generic ballistic vehicle through the standard atmosphere, a simulated X-band radar measures range, angles and Doppler, and a 10-state Extended Kalman Filter tracks the flight and estimates its ballistic coefficient. Noise levels are derived rather than tuned, consistency is verified with Monte Carlo NEES/NIS tests, and a live 3D desktop app shows every equation with its numbers.
 
 **Python · NumPy · SciPy · Kalman Filtering · Radar Signal Processing · Monte Carlo · PySide6 · OpenGL**
@@ -27,8 +25,6 @@ Designed and developed an end-to-end, real-time sound event classification syste
 **Python · PyTorch · CUDA · CNN · Transfer Learning · Audio DSP · Real-Time Inference · Raspberry Pi**
 
 ### [Real-Time License Plate Recognition](https://github.com/Jonathan-Balulu-Christiansen/LicensePlateRecognition)
-
-_In active development_
 
 Built a real-time system that detects, tracks and reads Israeli license plates from live cameras and video. A fine-tuned YOLO26m detector and ByteTrack locate and follow each plate, and a CNN+CTC network reads the full number in one pass, with readings voted across frames.
 
