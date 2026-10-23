@@ -2,9 +2,21 @@
 
 **Electrical and Electronics Engineer · Digital Signal Processing · Electro-Optics**
 
-I work primarily in Python on signal processing, deep learning and computer vision projects. I enjoy developing the full workflow: preparing data, testing technical choices, evaluating results and building software for real time usage.
+I work primarily in Python on signal processing, estimation, deep learning and computer vision projects. I enjoy developing the full workflow: preparing data, testing technical choices, evaluating results and building software for real time usage.
 
 ## Projects:
+
+### [Radar Target Tracking with an Extended Kalman Filter](https://github.com/Jonathan-Balulu-Christiansen/EKF_Simulation)
+
+_Personal project_
+
+Built a radar tracking simulator from the physics up: a 3-DOF model flies a generic ballistic vehicle through the standard atmosphere, a simulated X-band radar measures range, angles and Doppler, and a 10-state Extended Kalman Filter tracks the flight and estimates its ballistic coefficient. Noise levels are derived rather than tuned, consistency is verified with Monte Carlo NEES/NIS tests, and a live 3D desktop app shows every equation with its numbers.
+
+**Python · NumPy · SciPy · Kalman Filtering · Radar Signal Processing · Monte Carlo · PySide6 · OpenGL**
+
+<a href="https://github.com/Jonathan-Balulu-Christiansen/EKF_Simulation"><img src="assets/ekf-flight-3d.gif" alt="One full simulated flight in 3D, with the radar beam following the track over the atmosphere layers" width="100%"></a>
+
+<sub>One full flight played at ×20. The vehicle uses generic, illustrative values.</sub>
 
 ### Real-Time Sound Classification Using Spectrograms and Deep Neural Networks
 
