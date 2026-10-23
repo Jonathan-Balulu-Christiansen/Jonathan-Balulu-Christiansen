@@ -2,9 +2,9 @@
 
 **Electrical and Electronics Engineer · Digital Signal Processing · Electro-Optics**
 
-I work primarily in Python on signal processing, estimation, deep learning and computer vision projects. I enjoy developing the full workflow: preparing data, testing technical choices, evaluating results and building software for real time usage.
+I work primarily in Python on signal processing, estimation, deep learning and computer vision projects. I enjoy developing the full workflow: preparing data, testing technical choices, evaluating results and building software for real-time use.
 
-## Projects:
+## Projects
 
 ### Real-Time Sound Classification Using Spectrograms and Deep Neural Networks
 
@@ -22,7 +22,7 @@ Built a radar tracking simulator from the physics up: a 3-DOF model flies a gene
 
 <a href="https://github.com/Jonathan-Balulu-Christiansen/EKF_Simulation"><img src="assets/ekf-flight-3d.gif" alt="One full simulated flight in 3D, with the radar beam following the track over the atmosphere layers" width="100%"></a>
 
-<sub>One full flight played at ×20. The vehicle uses generic, illustrative values.</sub>
+<sub>One full flight played at ×20. The target uses generic, illustrative values.</sub>
 
 ### [Real-Time License Plate Recognition](https://github.com/Jonathan-Balulu-Christiansen/LicensePlateRecognition)
 
