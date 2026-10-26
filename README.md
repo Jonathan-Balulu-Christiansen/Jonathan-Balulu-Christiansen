@@ -14,6 +14,8 @@ Designed and developed an end-to-end, real-time sound event classification syste
 
 **Python · PyTorch · CUDA · CNN · Transfer Learning · Audio DSP · Real-Time Inference · Raspberry Pi**
 
+---
+
 ### [Radar Target Tracking with an Extended Kalman Filter](https://github.com/Jonathan-Balulu-Christiansen/EKF_Simulation)
 
 Built a radar tracking simulator from the physics up: a 3-DOF model flies a generic ballistic vehicle through the standard atmosphere, a simulated X-band radar measures range, angles and Doppler, and a 10-state Extended Kalman Filter tracks the flight and estimates its ballistic coefficient. Noise levels are derived rather than tuned, consistency is verified with Monte Carlo NEES/NIS tests, and a live 3D desktop app shows every equation with its numbers.
@@ -23,6 +25,8 @@ Built a radar tracking simulator from the physics up: a 3-DOF model flies a gene
 <a href="https://github.com/Jonathan-Balulu-Christiansen/EKF_Simulation"><img src="assets/ekf-flight-3d.gif" alt="One full simulated flight in 3D, with the radar beam following the track over the atmosphere layers" width="100%"></a>
 
 <sub>One full flight played at ×20. The target uses generic, illustrative values.</sub>
+
+---
 
 ### [Real-Time License Plate Recognition](https://github.com/Jonathan-Balulu-Christiansen/LicensePlateRecognition)
 
