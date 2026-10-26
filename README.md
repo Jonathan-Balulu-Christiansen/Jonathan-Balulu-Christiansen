@@ -14,6 +14,10 @@ Designed and developed an end-to-end, real-time sound event classification syste
 
 **Python · PyTorch · CUDA · CNN · Transfer Learning · Audio DSP · Real-Time Inference · Raspberry Pi**
 
+<img src="assets/auris-drone-live.gif" alt="Live field demo: a drone flies overhead at sunset while the app shows its spectrogram and detects the drone from its sound" width="100%">
+
+<sub>Live field demo: the drone overhead is detected from its sound alone, in real time.</sub>
+
 ---
 
 ### [Radar Target Tracking with an Extended Kalman Filter](https://github.com/Jonathan-Balulu-Christiansen/EKF_Simulation)
