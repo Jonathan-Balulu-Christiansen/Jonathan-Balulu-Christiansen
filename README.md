@@ -1,4 +1,4 @@
-# Jonathan Balulu Christiansen
+# Jonathan Balulu
 
 **Electrical and Electronics Engineer · Digital Signal Processing · Electro-Optics**
 
