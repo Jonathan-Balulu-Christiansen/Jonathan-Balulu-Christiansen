@@ -2,7 +2,7 @@
 
 **Electrical and Electronics Engineer · Digital Signal Processing · Electro-Optics**
 
-I work primarily in Python on signal processing, estimation, deep learning and computer vision projects. I enjoy developing the full workflow: preparing data, testing technical choices, evaluating results and building software for real-time use.
+I work mainly in Python, along with C and SystemVerilog. My work spans signal processing, estimation, computer vision and deep learning, RTL design and verification, and validating and integrating hardware and software systems. I enjoy building the whole thing: preparing the data, testing technical choices, evaluating the results and getting it to run in real time.
 
 ## Projects
 
