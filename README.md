@@ -42,6 +42,20 @@ Built a real-time system that detects, tracks and reads Israeli license plates f
 
 <sub>The app running in real time on a synthetic scene. All plate numbers shown are fictional.</sub>
 
+---
+
+### [Classical License Plate Reader](https://github.com/Jonathan-Balulu-Christiansen/GatePlateReader)
+
+_Solo final project · Digital Image Processing course_
+
+Built a license plate reader for a fixed gate camera with classical computer vision only. A motion trigger catches each passing car and keeps the sharpest frame of a short burst, Hough lines find the plate's four edges for a perspective warp, and template matching, constrained by the holes in each digit, reads the number.
+
+**Python · OpenCV · NumPy · Image Processing · Computer Vision**
+
+<a href="https://github.com/Jonathan-Balulu-Christiansen/GatePlateReader"><img src="assets/gate-plate-reader.gif" alt="A car approaches a gate; when it crosses the trigger line, the plate is found from its edges, straightened and read" width="100%"></a>
+
+<sub>The plate number is fictional: it was replaced in every frame of the clip.</sub>
+
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/jonathan-balulu-christiansen/)
